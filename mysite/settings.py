@@ -28,7 +28,7 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 SECRET_KEY = 'django-insecure-n&o=ysi#)b8r2n!=n)#ig--6r$bovi#bbpkkma(k@c(7v@xbn)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','.herokuapp.com']
 
